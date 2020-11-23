@@ -29,9 +29,7 @@ I'm Taras and I'm living in Lviv. I've been styding programing for 3 years (2 ye
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarasKostiv&show_icons=true)  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarasKostiv)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TarasKostiv) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarasKostiv&show_icons=true)
 
 ---
 
