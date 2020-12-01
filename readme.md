@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **some cool project**
-- 🌱 I’m currently learning  **JavaScript **
+- 🌱 I’m currently learning  **JavaScript**
 
 ---
 ## Who am I? 
